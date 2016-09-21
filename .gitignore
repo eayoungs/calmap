@@ -1,3 +1,9 @@
+# System
+.DS_Store
+
+# Sublime
+*.sublime-*
+
 *.pyc
 build
 dist
